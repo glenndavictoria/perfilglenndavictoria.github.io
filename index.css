@@ -1,0 +1,19 @@
+body {
+  background-color: whitesmoke;
+  border:4px dashed gray; 
+  
+}
+
+#main {
+    color: black
+}
+.apontador {
+ 
+}
+.borracha {
+    
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: x-large;
+    font-weight: 200;
+   font-variant: initial;
+}
